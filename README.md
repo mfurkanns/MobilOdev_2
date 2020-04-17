@@ -1,2 +1,2 @@
 # MobilOdev_2
-Mobil Programlamaya Giriş Dersi 2.ödevi
+Mehmet Furkan Şahin - 16011066 / Mobil Programlamaya Giriş Dersi 2.ödevi
